@@ -1,3 +1,12 @@
+
+<p style="text-align:center;">
+  /Accueil</a> |
+  /projetsProjets</a> |
+  /a-proposÀ propos</a> |
+  /contactContact</a>
+</p>
+
+
 # Bienvenue
 Je suis Gabriel Marty, étudiant prédoctoral en ingénierie mécanique.
 
