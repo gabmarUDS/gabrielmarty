@@ -4,6 +4,8 @@ title: "Projets"
 permalink: /projets/
 ---
 
+{% include nav.html %}
+
 # Mes projets
 
 ## Contrôle actif en temps réel
