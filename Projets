@@ -1,18 +1,6 @@
----
-layout: page
-title: "Projets"
-permalink: /projets/
----
-
-{% include nav.html %}
-
-# Mes projets
-
-## Contrôle actif en temps réel
-Description + images
-
-## Intégration de signaux
-Description + plots + code
-
-## Modélisation 3D SolidWorks
-Images + explication
+<p style="text-align:center;">
+  /Accueil</a> |
+  /projetsProjets</a> |
+  /a-proposÀ propos</a> |
+  /contactContact</a>
+</p>
