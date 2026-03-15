@@ -1,9 +1,3 @@
-
----
-layout: default
-title: "Accueil"
----
-
 # Bienvenue
 Je suis Gabriel Marty, étudiant prédoctoral en ingénierie mécanique.
 
