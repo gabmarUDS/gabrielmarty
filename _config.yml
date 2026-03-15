@@ -1,2 +1,14 @@
 theme: jekyll-theme-cayman
 title: "Portfolio Gabriel Marty"
+description: "Projets en ingénierie mécanique – CAO, signaux, contrôle actif"
+
+# IMPORTANT pour un project site :
+url: "https://gabmaruds.github.io"
+baseurl: "/gabrielmarty"
+
+# Dites à Cayman quelles pages mettre dans le header (onglets)
+header_pages:
+  - index.md
+  - Contacts.md
+  - Formations.md
+  - Projets.md
