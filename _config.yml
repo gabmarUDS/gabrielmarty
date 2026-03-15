@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: "Portfolio Gabriel Marty"
 description: "Projets en ingénierie mécanique – CAO, signaux, contrôle actif"
+permalink: /:title/
+
 
 # IMPORTANT pour un project site :
 url: "https://gabmaruds.github.io"
